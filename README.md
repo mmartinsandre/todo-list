@@ -56,6 +56,13 @@ npm run dev
 * Acesse o aplicativo em http://localhost:3000.
 * Cadastre, visualize, edite e exclua tarefas.
 
+**Acessando a API via Swagger:**
+
+Para acessar a documentação da API via Swagger, siga os passos abaixo:
+
+1. Inicie o servidor (backend) conforme as instruções fornecidas.
+2. Acesse http://localhost:3000/api-docs no seu navegador para visualizar a documentação da API via Swagger.
+
 **Contribuição:**
 
 * Fork este repositório.
@@ -72,3 +79,4 @@ npm run dev
 
 * Este é um código básico. Você pode adaptá-lo às suas necessidades.
 * Certifique-se de testar o código antes de usá-lo em produção.
+
