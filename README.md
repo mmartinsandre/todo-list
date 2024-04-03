@@ -61,7 +61,7 @@ npm run dev
 Para acessar a documentação da API via Swagger, siga os passos abaixo:
 
 1. Inicie o servidor (backend) conforme as instruções fornecidas.
-2. Acesse http://localhost:3000/api-docs no seu navegador para visualizar a documentação da API via Swagger.
+2. Acesse http://localhost:3001/api-docs no seu navegador para visualizar a documentação da API via Swagger.
 
 **Contribuição:**
 
